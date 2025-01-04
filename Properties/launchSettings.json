@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "vtb2beancount": {
+      "commandName": "Project",
+      "commandLineArgs": "/Users/igor/docs/Деньги/учет/money_beancount/config.toml /Users/igor/Downloads/vtb.beancount /Users/igor/Downloads/test.csv"
+    }
+  }
+}
